@@ -1,5 +1,3 @@
----
-
 #️ Real-Time Voice Agent (LiveKit)
 
 A real-time voice agent built using **LiveKit (Python SDK)** that joins a room, listens to user speech, converts it to text, responds with `"You said: <text>"`, and plays the response back via audio.
