@@ -1,0 +1,7 @@
+LIVEKIT_URL = "wss://your-project.livekit.cloud"
+LIVEKIT_API_KEY = "your_api_key"
+LIVEKIT_API_SECRET = "your_api_secret"
+ROOM_NAME = "test-room"
+BOT_NAME = "voice-agent"
+
+ASSEMBLYAI_API_KEY = "your_assemblyai_key"
